@@ -11,7 +11,7 @@ I am currently looking for opportunities to contribute to a forward-thinking eng
 🚀 Professional Experience
 Associate Software Engineer
 
-Skyllx Technology Pvt Ltd
+##  Skyllx Technology Pvt Ltd
 📅 February 2025 – Present
 
 Develop Java-based backend services and REST APIs using Spring Boot following clean architecture principles.
@@ -27,11 +27,11 @@ Deploy containerized applications using Docker & Kubernetes.
 Monitor applications using ELK Stack (Elasticsearch, Logstash, Kibana).
 
 📂 Key Projects
-📚 Learning Management System (Microservices)
+## 📚 Learning Management System (Microservices)
 
 Built a microservices-based LMS with 24+ services
 
-Tech Stack: Spring Boot, React.js, Kafka, Eureka, Docker, Kubernetes
+Tech Stack: Spring Boot, React.js, Kafka, Eureka, Docker
 
 Features:
 
@@ -43,7 +43,7 @@ Online Exams
 
 Certification System
 
-💼 Job Portal Application
+## 💼 Job Portal Application
 
 Full-stack job portal for job posting and searching
 
@@ -51,26 +51,28 @@ Tech Stack: Spring Boot, React.js, MySQL
 
 Implemented RESTful APIs for job management and user interactions.
 
-🦷 Dental Clinic Management System
+## 🦷 Dental Clinic Management System
 
-Developed an interactive frontend using React.js & Tailwind CSS
+Tech Stack: Spring Boot, React Native , Kafka, Eureka, Docker, JSP, JAVA, J@EE, MYSQL, AWS, Restful Api
+
+Developed an interactive frontend using React.js, rect native  & Tailwind CSS, backend with springboot and java
 
 Features include:
 
-Appointment Scheduling
+Builded andiod and ios  app for doctor and patient for controllering them  website for admin
 
-Treatment Tracking
+Entire clinic service through online and offline 
 
-Patient Management
+Patient Management based on clinic 
 
-🎓 Education
+## 🎓 Education
 
 B.E. in Electronics & Communication Engineering (ECE)
 🎓 Bheemanna Khandre Institute of Technology, Bidar
 📅 2020 – 2024
 📊 CGPA: 8.6 / 10
 
-🌐 Portfolio
+## 🌐 Portfolio
 
 🔗 Portfolio Website
 https://protofolio-8c889twuv-prasads-projects-d09b984f.vercel.app/
