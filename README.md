@@ -102,14 +102,13 @@ https://protofolio-8c889twuv-prasads-projects-d09b984f.vercel.app/
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="120"/>
 </p>
 
-<p align="center">
-  <b>YOLO</b> &nbsp;&nbsp;&nbsp; 
-  <b>Pull Shark</b> &nbsp;&nbsp;&nbsp; 
-  <b>Quickdraw</b>
-</p>
+### ✍️ Developer Quotes
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=First%20solve%20the%20problem%20then%20write%20the%20code&author=John%20Johnson&theme=radical" width="32%" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Programs%20must%20be%20written%20for%20people%20to%20read%20and%20only%20incidentally%20for%20machines%20to%20execute&author=Harold%20Abelson&theme=radical" width="32%" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Great%20developers%20dont%20just%20write%20code%20they%20design%20systems%20that%20scale&author=Software%20Engineering%20Principle&theme=radical" width="32%" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prasadsomnath&limit=5&theme=dark&combine_all_yearly_contributions=true)
