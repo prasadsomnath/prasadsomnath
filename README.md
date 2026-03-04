@@ -1,87 +1,151 @@
-# 💫 About Me:
-👋 Hi, I'm Prasad Somnath
+<h1 align="center">👋 Hi, I'm Prasad Somnath</h1>
 
-💻 Full Stack Java Developer | Spring Boot | React.js | Microservices
+<p align="center">
+💻 <b>Full Stack Java Developer</b> | Spring Boot | React.js | Microservices <br>
 📍 Bengaluru, India
+</p>
 
-I am a Full Stack Java Developer with hands-on industry experience building and deploying scalable, microservices-based web applications. I enjoy designing clean backend architectures, building responsive user interfaces, and delivering production-grade software.
+<table>
+<tr>
+<td>
 
-I am currently looking for opportunities to contribute to a forward-thinking engineering team where I can build impactful and scalable products.
+<h3>💫 About Me</h3>
 
-🚀 Professional Experience
-Associate Software Engineer
+<p>
+I am a <b>Full Stack Java Developer</b> with hands-on industry experience building and deploying scalable, microservices-based web applications.  
 
-##  Skyllx Technology Pvt Ltd
+I enjoy designing clean backend architectures, building responsive user interfaces, and delivering <b>production-grade software</b>.
+
+Currently seeking opportunities to contribute to a <b>forward-thinking engineering team</b> and build impactful scalable products.
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🚀 Professional Experience</h3>
+
+<b>Associate Software Engineer</b><br>
+Skyllx Technology Pvt Ltd<br>
 📅 February 2025 – Present
 
-Develop Java-based backend services and REST APIs using Spring Boot following clean architecture principles.
+<ul>
+<li>Develop Java-based backend services using <b>Spring Boot</b></li>
+<li>Build full-stack features using <b>React.js & MySQL</b></li>
+<li>Implemented <b>JWT Authentication</b></li>
+<li>Built event-driven microservices with <b>Apache Kafka</b></li>
+<li>Deploy containerized apps using <b>Docker & Kubernetes</b></li>
+<li>Monitoring with <b>ELK Stack</b></li>
+</ul>
 
-Build full-stack features using React.js and MySQL with optimized database queries.
+</td>
 
-Implement secure JWT authentication systems.
+<td width="50%">
 
-Develop event-driven microservices using Apache Kafka.
+<h3>🎓 Education</h3>
 
-Deploy containerized applications using Docker & Kubernetes.
+<b>B.E. Electronics & Communication Engineering</b>
 
-Monitor applications using ELK Stack (Elasticsearch, Logstash, Kibana).
+Bheemanna Khandre Institute of Technology, Bidar
 
-📂 Key Projects
-## 📚 Learning Management System (Microservices)
+📅 2020 – 2024  
+📊 CGPA: <b>8.6 / 10</b>
 
-Built a microservices-based LMS with 24+ services
+<br>
 
-Tech Stack: Spring Boot, React.js, Kafka, Eureka, Docker
+<h3>🌐 Portfolio</h3>
+
+<a href="https://protofolio-8c889twuv-prasads-projects-d09b984f.vercel.app/">Visit Portfolio</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">📂 Key Projects</h2>
+
+<table>
+<tr>
+
+<td width="33%">
+
+<h3>📚 LMS</h3>
+
+<b>Microservices Learning Management System</b>
+
+Tech Stack:
+Spring Boot • React.js • Kafka • Eureka • Docker
 
 Features:
+<ul>
+<li>Course Management</li>
+<li>User Enrollment</li>
+<li>Online Exams</li>
+<li>Certification System</li>
+</ul>
 
-Course Management
+</td>
 
-User Enrollment
+<td width="33%">
 
-Online Exams
+<h3>💼 Job Portal</h3>
 
-Certification System
+<b>Full Stack Job Platform</b>
 
-## 💼 Job Portal Application
+Tech Stack:
+Spring Boot • React.js • MySQL
 
-Full-stack job portal for job posting and searching
+Features:
+<ul>
+<li>Job Posting</li>
+<li>Job Search</li>
+<li>REST APIs</li>
+<li>User Management</li>
+</ul>
 
-Tech Stack: Spring Boot, React.js, MySQL
+</td>
 
-Implemented RESTful APIs for job management and user interactions.
+<td width="33%">
 
-## 🦷 Dental Clinic Management System
+<h3>🦷 Dental Clinic System</h3>
 
-Tech Stack: Spring Boot, React Native , Kafka, Eureka, Docker, JSP, JAVA, J@EE, MYSQL, AWS, Restful Api
+Tech Stack:
+Spring Boot • React Native • Kafka • Docker • MySQL • AWS
 
-Developed an interactive frontend using React.js, rect native  & Tailwind CSS, backend with springboot and java
+Features:
+<ul>
+<li>Android & iOS Apps</li>
+<li>Doctor & Patient Dashboard</li>
+<li>Admin Web Portal</li>
+<li>Clinic Management</li>
+</ul>
 
-Features include:
+</td>
 
-Builded andiod and ios  app for doctor and patient for controllering them  website for admin
+</tr>
+</table>
 
-Entire clinic service through online and offline 
+<br>
 
-Patient Management based on clinic 
+<table>
+<tr>
+<td>
 
-## 🎓 Education
+<h3>📫 Let's Connect</h3>
 
-B.E. in Electronics & Communication Engineering (ECE)
-🎓 Bheemanna Khandre Institute of Technology, Bidar
-📅 2020 – 2024
-📊 CGPA: 8.6 / 10
+💼 Open to <b>Backend / Full Stack Developer Roles</b>  
+📧 Feel free to reach out for collaborations and opportunities.
 
-## 🌐 Portfolio
-
-🔗 Portfolio Website
-https://protofolio-8c889twuv-prasads-projects-d09b984f.vercel.app/
-
-📫 Let's Connect
-
-💼 Open to Software Developer / Backend / Full Stack roles
-
-📧 Feel free to reach out for collaborations or opportunities.
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
