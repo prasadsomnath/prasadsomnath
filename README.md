@@ -94,8 +94,19 @@ https://protofolio-8c889twuv-prasads-projects-d09b984f.vercel.app/
 ![](https://nirzak-streak-stats.vercel.app/?user=prasadsomnath&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsomnath&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prasadsomnath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="120"/>
+</p>
+
+<p align="center">
+  <b>YOLO</b> &nbsp;&nbsp;&nbsp; 
+  <b>Pull Shark</b> &nbsp;&nbsp;&nbsp; 
+  <b>Quickdraw</b>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
