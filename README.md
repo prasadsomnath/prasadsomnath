@@ -1,5 +1,85 @@
 # 💫 About Me:
-Dear Hiring Manager,<br>I am Prasad Somnath, a Full Stack Java Developer based in Bengaluru with hands-on industry experience building and deploying scalable, microservices-based web applications. I am actively seeking opportunities to contribute to a forward-thinking engineering team, and I would love to be considered for suitable openings at your organization.<br>Professional Experience<br>I am currently working as an Associate Software Engineer at Skyllx Technology Pvt Ltd (Febarary 2025 – Present), where I:<br>•Build Java-based backend services and RESTful APIs using Spring Boot, following clean architecture and performance best practices.<br>•Work full-stack with React.js and MySQL to deliver user-facing features with optimized query performance.<br>•Implement secure JWT-based authentication and event-driven architectures using Apache Kafka.<br>•Deploy containerized services using Docker & Kubernetes, with centralized monitoring via the ELK stack (Elasticsearch, Logstash, Kibana).<br>Technical Skills<br>•Languages & Backend: Java, Spring Boot, Spring MVC, Hibernate, JPA, RESTful APIs, JSP, mockito, unittesting, <br>•Frontend: React.js, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS<br>•Databases: MySQL, SQL<br>•DevOps & Tools: Docker, Kafka, AWS (EC2), Git/GitHub, Postman, Swagger, ELK Stack<br>Key Projects<br>•Learning Management System (LMS): Built a microservices-based LMS with 24+ services using Spring Boot, React.js, Kafka, Eureka, Docker & Kubernetes — supporting course management, user enrollment, exam, and certification workflows.<br>•Job Portal Application: Full-stack job portal using Spring Boot, React.js, and MySQL with RESTful APIs for job posting, search, and management.<br>•Dental Clinic Management System: Interactive React.js frontend with Tailwind CSS for appointment scheduling and treatment tracking.<br>Education<br>.portfolio :https://protofolio-8c889twuv-prasads-projects-d09b984f.vercel.app/<br>B.E. in Electronics & Communication Engineering (ECE) — CGPA 8.6/10  |  Bheemanna Khandre Institute of Technology, Bidar (2020–2024)<br>I am passionate about building high-quality, production-grade software and am eager to bring my skills to a collaborative engineering environment. I would welcome the opportunity to discuss how I can add value to your team.
+👋 Hi, I'm Prasad Somnath
+
+💻 Full Stack Java Developer | Spring Boot | React.js | Microservices
+📍 Bengaluru, India
+
+I am a Full Stack Java Developer with hands-on industry experience building and deploying scalable, microservices-based web applications. I enjoy designing clean backend architectures, building responsive user interfaces, and delivering production-grade software.
+
+I am currently looking for opportunities to contribute to a forward-thinking engineering team where I can build impactful and scalable products.
+
+🚀 Professional Experience
+Associate Software Engineer
+
+Skyllx Technology Pvt Ltd
+📅 February 2025 – Present
+
+Develop Java-based backend services and REST APIs using Spring Boot following clean architecture principles.
+
+Build full-stack features using React.js and MySQL with optimized database queries.
+
+Implement secure JWT authentication systems.
+
+Develop event-driven microservices using Apache Kafka.
+
+Deploy containerized applications using Docker & Kubernetes.
+
+Monitor applications using ELK Stack (Elasticsearch, Logstash, Kibana).
+
+📂 Key Projects
+📚 Learning Management System (Microservices)
+
+Built a microservices-based LMS with 24+ services
+
+Tech Stack: Spring Boot, React.js, Kafka, Eureka, Docker, Kubernetes
+
+Features:
+
+Course Management
+
+User Enrollment
+
+Online Exams
+
+Certification System
+
+💼 Job Portal Application
+
+Full-stack job portal for job posting and searching
+
+Tech Stack: Spring Boot, React.js, MySQL
+
+Implemented RESTful APIs for job management and user interactions.
+
+🦷 Dental Clinic Management System
+
+Developed an interactive frontend using React.js & Tailwind CSS
+
+Features include:
+
+Appointment Scheduling
+
+Treatment Tracking
+
+Patient Management
+
+🎓 Education
+
+B.E. in Electronics & Communication Engineering (ECE)
+🎓 Bheemanna Khandre Institute of Technology, Bidar
+📅 2020 – 2024
+📊 CGPA: 8.6 / 10
+
+🌐 Portfolio
+
+🔗 Portfolio Website
+https://protofolio-8c889twuv-prasads-projects-d09b984f.vercel.app/
+
+📫 Let's Connect
+
+💼 Open to Software Developer / Backend / Full Stack roles
+
+📧 Feel free to reach out for collaborations or opportunities.
 
 
 ## 🌐 Socials:
